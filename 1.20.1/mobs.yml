@@ -1,379 +1,379 @@
 allay:
   health: 20.0
   movementSpeed: 0.25
-  displayName: "&Allay"
+  displayName: "Allay"
 
 axolotl:
   health: 14.0
   movementSpeed: 1.0
-  displayName: "&Axolotl"
+  displayName: "Axolotl"
 
 bat:
   health: 6.0
   movementSpeed: 0.25
-  displayName: "&Bat"
+  displayName: "Bat"
 
 camel:
   health: 32.0
   movementSpeed: 0.2
-  displayName: "&Camel"
+  displayName: "Camel"
 
 cat:
   health: 10.0
   movementSpeed: 0.3
-  displayName: "&Cat"
+  displayName: "Cat"
 
 chicken:
   health: 4.0
   movementSpeed: 0.25
-  displayName: "&Chicken"
+  displayName: "Chicken"
 
 cod:
   health: 3.0
   movementSpeed: 0.3
-  displayName: "&Cod"
+  displayName: "Cod"
 
 cow:
   health: 10.0
   movementSpeed: 0.2
-  displayName: "&Cow"
+  displayName: "Cow"
 
 donkey:
   health: 15.0
   movementSpeed: 0.175
-  displayName: "&Donkey"
+  displayName: "Donkey"
 
 frog:
   health: 10.0
   movementSpeed: 0.35
-  displayName: "&Frog"
+  displayName: "Frog"
 
 glow_squid:
   health: 10.0
   movementSpeed: 0.15
-  displayName: "&Glow Squid"
+  displayName: "Glow Squid"
 
 horse:
   health: 30.0
   movementSpeed: 0.225
-  displayName: "&Horse"
+  displayName: "Horse"
 
 mooshroom:
   health: 10.0
   movementSpeed: 0.2
-  displayName: "&Mooshroom"
+  displayName: "Mooshroom"
 
 mule:
   health: 16.0
   movementSpeed: 0.175
-  displayName: "&Mule"
+  displayName: "Mule"
 
 ocelot:
   health: 10.0
   movementSpeed: 0.3
-  displayName: "&Ocelot"
+  displayName: "Ocelot"
 
 parrot:
   health: 6.0
   movementSpeed: 0.2
-  displayName: "&Parrot"
+  displayName: "Parrot"
 
 pig:
   health: 10.0
   movementSpeed: 0.25
-  displayName: "&Pig"
+  displayName: "Pig"
 
 pufferfish:
   health: 3.0
   movementSpeed: 0.3
-  displayName: "&Pufferfish"
+  displayName: "Pufferfish"
 
 rabbit:
   health: 3.0
   movementSpeed: 0.5
-  displayName: "&Rabbit"
+  displayName: "Rabbit"
 
 salmon:
   health: 3.0
   movementSpeed: 0.3
-  displayName: "&Salmon"
+  displayName: "Salmon"
 
 sheep:
   health: 8.0
   movementSpeed: 0.2
-  displayName: "&Sheep"
+  displayName: "Sheep"
 
 skeleton_horse:
   health: 15.0
   movementSpeed: 0.225
-  displayName: "&Skeleton Horse"
+  displayName: "Skeleton Horse"
 
 sniffer:
   health: 20.0
   movementSpeed: 0.2
-  displayName: "&Sniffer"
+  displayName: "Sniffer"
 
 snow_golem:
   health: 4.0
   movementSpeed: 0.2
-  displayName: "&Snow Golem"
+  displayName: "Snow Golem"
 
 squid:
   health: 10.0
   movementSpeed: 0.15
-  displayName: "&Squid"
+  displayName: "Squid"
 
 strider:
   health: 20.0
   movementSpeed: 0.175
-  displayName: "&Strider"
+  displayName: "Strider"
 
 tadpole:
   health: 6.0
   movementSpeed: 0.3
-  displayName: "&Tadpole"
+  displayName: "Tadpole"
 
 tropical_fish:
   health: 3.0
   movementSpeed: 0.3
-  displayName: "&Tropical Fish"
+  displayName: "Tropical Fish"
 
 turtle:
   health: 30.0
   movementSpeed: 0.15
-  displayName: "&Turtle"
+  displayName: "Turtle"
 
 villager:
   health: 20.0
   movementSpeed: 0.25
-  displayName: "&Villager"
+  displayName: "Villager"
 
 wandering_trader:
   health: 20.0
   movementSpeed: 0.3
-  displayName: "&Wandering Trader"
+  displayName: "Wandering Trader"
 
 bee:
   health: 10.0
   movementSpeed: 0.4
-  displayName: "&Bee"
+  displayName: "Bee"
 
 cave_spider:
   health: 12.0
   movementSpeed: 0.3
-  displayName: "&Cave Spider"
+  displayName: "Cave Spider"
 
 dolphin:
   health: 10.0
   movementSpeed: 1.2
-  displayName: "&Dolphin"
+  displayName: "Dolphin"
 
 drowned:
   health: 20.0
   movementSpeed: 0.25
-  displayName: "&Drowned"
+  displayName: "Drowned"
 
 enderman:
   health: 40.0
   movementSpeed: 0.3
-  displayName: "&Enderman"
+  displayName: "Enderman"
 
 fox:
   health: 10.0
   movementSpeed: 0.4
-  displayName: "&Fox"
+  displayName: "Fox"
 
 goat:
   health: 10.0
   movementSpeed: 0.3
-  displayName: "&Goat"
+  displayName: "Goat"
 
 iron_golem:
   health: 100.0
   movementSpeed: 0.25
-  displayName: "&Iron Golem"
+  displayName: "Iron Golem"
 
 llama:
   health: 15.0
   movementSpeed: 0.175
-  displayName: "&Llama"
+  displayName: "Llama"
 
 panda:
   health: 20.0
   movementSpeed: 0.25
-  displayName: "&Panda"
+  displayName: "Panda"
 
 piglin:
   health: 16.0
   movementSpeed: 0.25
-  displayName: "&Piglin"
+  displayName: "Piglin"
 
 polar_bear:
   health: 30.0
   movementSpeed: 0.25
-  displayName: "&Polar Bear"
+  displayName: "Polar Bear"
 
 spider:
   health: 16.0
   movementSpeed: 0.3
-  displayName: "&Spider"
+  displayName: "Spider"
 
 trader_llama:
   health: 15.0
   movementSpeed: 0.175
-  displayName: "&Trader Llama"
+  displayName: "Trader Llama"
 
 wolf:
   health: 8.0
   movementSpeed: 0.3
-  displayName: "&Wolf"
+  displayName: "Wolf"
 
 zombified_piglin:
   health: 20.0
   movementSpeed: 0.25
-  displayName: "&Zombified Piglin"
+  displayName: "Zombified Piglin"
 
 blaze:
   health: 20.0
   movementSpeed: 0.23
-  displayName: "&Blaze"
+  displayName: "Blaze"
 
 creeper:
   health: 20.0
   movementSpeed: 0.2
-  displayName: "&Creeper"
+  displayName: "Creeper"
 
 elder_guardian:
   health: 80.0
   movementSpeed: 0.3
-  displayName: "&Elder Guardian"
+  displayName: "Elder Guardian"
 
 endermite:
   health: 8.0
   movementSpeed: 0.3
-  displayName: "&Endermite"
+  displayName: "Endermite"
 
 evoker:
   health: 24.0
   movementSpeed: 0.25
-  displayName: "&Evoker"
+  displayName: "Evoker"
 
 ghast:
   health: 10.0
   movementSpeed: 0.5
-  displayName: "&Ghast"
+  displayName: "Ghast"
 
 guardian:
   health: 30.0
   movementSpeed: 0.3
-  displayName: "&Guardian"
+  displayName: "Guardian"
 
 hoglin:
   health: 40.0
   movementSpeed: 0.3
-  displayName: "&Hoglin"
+  displayName: "Hoglin"
 
 husk:
   health: 20.0
   movementSpeed: 0.25
-  displayName: "&Husk"
+  displayName: "Husk"
 
 magma_cube:
   health: 16.0
   movementSpeed: 0.2
-  displayName: "&Magma Cube"
+  displayName: "Magma Cube"
 
 phantom:
   health: 20.0
   movementSpeed: 0.4
-  displayName: "&Phantom"
+  displayName: "Phantom"
 
 piglin_brute:
   health: 50.0
   movementSpeed: 0.25
-  displayName: "&Piglin Brute"
+  displayName: "Piglin Brute"
 
 pillager:
   health: 24.0
   movementSpeed: 0.25
-  displayName: "&Pillager"
+  displayName: "Pillager"
 
 ravager:
   health: 100.0
   movementSpeed: 0.3
-  displayName: "&Ravager"
+  displayName: "Ravager"
 
 shulker:
   health: 30.0
   movementSpeed: 0.0
-  displayName: "&Shulker"
+  displayName: "Shulker"
 
 silverfish:
   health: 8.0
   movementSpeed: 0.3
-  displayName: "&Silverfish"
+  displayName: "Silverfish"
 
 skeleton:
   health: 20.0
   movementSpeed: 0.25
-  displayName: "&Skeleton"
+  displayName: "Skeleton"
 
 slime:
   health: 16.0
   movementSpeed: 0.2
-  displayName: "&Slime"
+  displayName: "Slime"
 
 stray:
   health: 20.0
   movementSpeed: 0.25
-  displayName: "&Stray"
+  displayName: "Stray"
 
 vex:
   health: 14.0
   movementSpeed: 0.4
-  displayName: "&Vex"
+  displayName: "Vex"
 
 vindicator:
   health: 24.0
   movementSpeed: 0.3
-  displayName: "&Vindicator"
+  displayName: "Vindicator"
 
 warden:
   health: 500.0
   movementSpeed: 0.3
-  displayName: "&Warden"
+  displayName: "Warden"
 
 witch:
   health: 26.0
   movementSpeed: 0.25
-  displayName: "&Witch"
+  displayName: "Witch"
 
 wither:
   health: 300.0
   movementSpeed: 0.6
-  displayName: "&Wither"
+  displayName: "Wither"
 
 zoglin:
   health: 40.0
   movementSpeed: 0.3
-  displayName: "&Zoglin"
+  displayName: "Zoglin"
 
 zombie:
-  health: 20.0
+  health: 30.0
   movementSpeed: 0.25
-  displayName: "&Zombie"
+  displayName: "Zombie"
 
 zombie_villager:
   health: 20.0
   movementSpeed: 0.25
-  displayName: "&Zombie Villager"
+  displayName: "Zombie Villager"
 
 illusioner:
   health: 32.0
   movementSpeed: 0.3
-  displayName: "&Illusioner"
+  displayName: "Illusioner"
 
 ender_dragon:
   health: 200.0
   movementSpeed: 0.5
-  displayName: "&Ender Dragon"
+  displayName: "Ender Dragon"
