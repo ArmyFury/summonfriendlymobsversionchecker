@@ -1,0 +1,314 @@
+bat:
+  health: 6.0
+  movementSpeed: 0.25
+  displayName: "Bat"
+
+cat:
+  health: 10.0
+  movementSpeed: 0.3
+  displayName: "Cat"
+
+chicken:
+  health: 4.0
+  movementSpeed: 0.25
+  displayName: "Chicken"
+
+cod:
+  health: 3.0
+  movementSpeed: 0.3
+  displayName: "Cod"
+
+cow:
+  health: 10.0
+  movementSpeed: 0.2
+  displayName: "Cow"
+
+donkey:
+  health: 15.0
+  movementSpeed: 0.175
+  displayName: "Donkey"
+
+horse:
+  health: 30.0
+  movementSpeed: 0.225
+  displayName: "Horse"
+
+mooshroom:
+  health: 10.0
+  movementSpeed: 0.2
+  displayName: "Mooshroom"
+
+mule:
+  health: 16.0
+  movementSpeed: 0.175
+  displayName: "Mule"
+
+ocelot:
+  health: 10.0
+  movementSpeed: 0.3
+  displayName: "Ocelot"
+
+parrot:
+  health: 6.0
+  movementSpeed: 0.2
+  displayName: "Parrot"
+
+pig:
+  health: 10.0
+  movementSpeed: 0.25
+  displayName: "Pig"
+
+pufferfish:
+  health: 3.0
+  movementSpeed: 0.3
+  displayName: "Pufferfish"
+
+rabbit:
+  health: 3.0
+  movementSpeed: 0.5
+  displayName: "Rabbit"
+
+salmon:
+  health: 3.0
+  movementSpeed: 0.3
+  displayName: "Salmon"
+
+sheep:
+  health: 8.0
+  movementSpeed: 0.2
+  displayName: "Sheep"
+
+skeleton_horse:
+  health: 15.0
+  movementSpeed: 0.225
+  displayName: "Skeleton Horse"
+
+snow_golem:
+  health: 4.0
+  movementSpeed: 0.2
+  displayName: "Snow Golem"
+
+squid:
+  health: 10.0
+  movementSpeed: 0.15
+  displayName: "Squid"
+
+tadpole:
+  health: 6.0
+  movementSpeed: 0.3
+  displayName: "Tadpole"
+
+tropical_fish:
+  health: 3.0
+  movementSpeed: 0.3
+  displayName: "Tropical Fish"
+
+turtle:
+  health: 30.0
+  movementSpeed: 0.15
+  displayName: "Turtle"
+
+villager:
+  health: 20.0
+  movementSpeed: 0.25
+  displayName: "Villager"
+
+wandering_trader:
+  health: 20.0
+  movementSpeed: 0.3
+  displayName: "Wandering Trader"
+
+cave_spider:
+  health: 12.0
+  movementSpeed: 0.3
+  displayName: "Cave Spider"
+
+dolphin:
+  health: 10.0
+  movementSpeed: 1.2
+  displayName: "Dolphin"
+
+drowned:
+  health: 20.0
+  movementSpeed: 0.25
+  displayName: "Drowned"
+
+enderman:
+  health: 40.0
+  movementSpeed: 0.3
+  displayName: "Enderman"
+
+fox:
+  health: 10.0
+  movementSpeed: 0.4
+  displayName: "Fox"
+
+iron_golem:
+  health: 100.0
+  movementSpeed: 0.25
+  displayName: "Iron Golem"
+
+llama:
+  health: 15.0
+  movementSpeed: 0.175
+  displayName: "Llama"
+
+panda:
+  health: 20.0
+  movementSpeed: 0.25
+  displayName: "Panda"
+
+polar_bear:
+  health: 30.0
+  movementSpeed: 0.25
+  displayName: "Polar Bear"
+
+spider:
+  health: 16.0
+  movementSpeed: 0.3
+  displayName: "Spider"
+
+trader_llama:
+  health: 15.0
+  movementSpeed: 0.175
+  displayName: "Trader Llama"
+
+wolf:
+  health: 8.0
+  movementSpeed: 0.3
+  displayName: "Wolf"
+
+pig_zombie:
+  health: 20.0
+  movementSpeed: 0.25
+  displayName: "Pig Zombie"
+
+blaze:
+  health: 20.0
+  movementSpeed: 0.23
+  displayName: "Blaze"
+
+creeper:
+  health: 20.0
+  movementSpeed: 0.2
+  displayName: "Creeper"
+
+elder_guardian:
+  health: 80.0
+  movementSpeed: 0.3
+  displayName: "Elder Guardian"
+
+endermite:
+  health: 8.0
+  movementSpeed: 0.3
+  displayName: "Endermite"
+
+evoker:
+  health: 24.0
+  movementSpeed: 0.25
+  displayName: "Evoker"
+
+ghast:
+  health: 10.0
+  movementSpeed: 0.5
+  displayName: "Ghast"
+
+guardian:
+  health: 30.0
+  movementSpeed: 0.3
+  displayName: "Guardian"
+
+husk:
+  health: 20.0
+  movementSpeed: 0.25
+  displayName: "Husk"
+
+magma_cube:
+  health: 16.0
+  movementSpeed: 0.2
+  displayName: "Magma Cube"
+
+phantom:
+  health: 20.0
+  movementSpeed: 0.4
+  displayName: "Phantom"
+
+pillager:
+  health: 24.0
+  movementSpeed: 0.25
+  displayName: "Pillager"
+
+ravager:
+  health: 100.0
+  movementSpeed: 0.3
+  displayName: "Ravager"
+
+shulker:
+  health: 30.0
+  movementSpeed: 0.0
+  displayName: "Shulker"
+
+silverfish:
+  health: 8.0
+  movementSpeed: 0.3
+  displayName: "Silverfish"
+
+skeleton:
+  health: 20.0
+  movementSpeed: 0.25
+  displayName: "Skeleton"
+
+slime:
+  health: 16.0
+  movementSpeed: 0.2
+  displayName: "Slime"
+
+stray:
+  health: 20.0
+  movementSpeed: 0.25
+  displayName: "Stray"
+
+vex:
+  health: 14.0
+  movementSpeed: 0.4
+  displayName: "Vex"
+
+vindicator:
+  health: 24.0
+  movementSpeed: 0.3
+  displayName: "Vindicator"
+
+witch:
+  health: 26.0
+  movementSpeed: 0.25
+  displayName: "Witch"
+
+wither:
+  health: 300.0
+  movementSpeed: 0.6
+  displayName: "Wither"
+
+zoglin:
+  health: 40.0
+  movementSpeed: 0.3
+  displayName: "Zoglin"
+
+zombie:
+  health: 30.0
+  movementSpeed: 0.25
+  displayName: "Zombie"
+
+zombie_villager:
+  health: 20.0
+  movementSpeed: 0.25
+  displayName: "Zombie Villager"
+
+illusioner:
+  health: 32.0
+  movementSpeed: 0.3
+  displayName: "Illusioner"
+
+ender_dragon:
+  health: 200.0
+  movementSpeed: 0.5
+  displayName: "Ender Dragon"
