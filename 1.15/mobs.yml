@@ -183,10 +183,10 @@ wolf:
   movementSpeed: 0.3
   displayName: "Wolf"
 
-zombified_piglin:
+pig_zombie:
   health: 20.0
   movementSpeed: 0.25
-  displayName: "Zombified Piglin"
+  displayName: "Pig Zombie"
 
 blaze:
   health: 20.0
