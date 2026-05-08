@@ -392,3 +392,39 @@ creaking:
   health: 1.0
   movementSpeed: 0.23
   displayName: "Creaking"
+
+happy_ghast:
+  health: 20
+  movementSpeed: 0.05
+  displayName: "Happy Ghast"
+
+ghastling:
+  health: 20
+  movementSpeed: 0.05
+  displayName: "Ghastling"
+
+copper_golem:
+  health: 12
+  movementSpeed: 0.2
+  displayName: "Copper Golem"
+
+camel_husk:
+  health: 32
+  movementSpeed: 0.09
+  displayName: "Camel Husk"
+
+nautilus:
+  health: 15
+  movementSpeed: 1
+  displayName: "Nautilus"
+
+zombie_nautilus:
+  health: 15
+  movementSpeed: 1.1
+  displayName: "Zombie Nautilus"
+
+parched:
+  health: 16
+  movementSpeed: 0.25
+  displayName: "Parched"
+
